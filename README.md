@@ -1,0 +1,1 @@
+On the breast cancer data (114 test samples), gradient boosting and XGBoost both scored 95.6% accuracy. Gradient boosting missed 2 malignant cases and XGBoost missed 5, though XGBoost flagged no benign case as malignant.
